@@ -1,0 +1,11 @@
+Model Information:
+* title:	partition panel
+* source:	https://sketchfab.com/3d-models/partition-panel-34df380e27d949e8ac043c8819fb01f2
+* author:	ehsan.avard (https://sketchfab.com/ehsan.avard)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "partition panel" (https://sketchfab.com/3d-models/partition-panel-34df380e27d949e8ac043c8819fb01f2) by ehsan.avard (https://sketchfab.com/ehsan.avard) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
